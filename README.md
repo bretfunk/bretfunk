@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Senior Software Developer with the fine folks at United Community Bank.
+
+I am a former U.S. Navy F-14 electrician, commercial pilot, small business owner and congressional aide, spokesman, and speechwriter in both the U.S. Senate and U.S. House of Representatives. 🇺🇸🇪🇨🏴‍☠️
+
 <!--
 **bretfunk/bretfunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
